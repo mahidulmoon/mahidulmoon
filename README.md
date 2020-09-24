@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 &nbsp; Good knowledge in Full Stack Developer(Frontend(reactjs,reactnative)+Backend(django,djangorestframework))
 - 🎓 &nbsp; Studying Software Engineering at Daffodil International University.
-- 🤔 I’m steal learning for better development skill in full stackt web development
+- 🤔 I’m steal learning for better development skill in full-stack web development
 
 <!--- 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design. -->
 
