@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <br />
 
 [![mahidulmoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahidulmoon&show_icons=true)](https://github.com/mahidulmoon)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahidulmoon&theme=tokyonight)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
