@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 - 💻 &nbsp; C | Php | Python | Javascript | Golang
-- 🌐 &nbsp; HTML | CSS | ReactJS | ReactBootstrap | ReactNative | Django | Django Rest Framework | Gin(golang)
+- 🌐 &nbsp; HTML | CSS | ReactJS | ReactBootstrap | NextJS | ReactNative | Django | Django Rest Framework | Gin(golang)
 - 🛢 &nbsp; MySQL | Sqlite3 | PostgreSQL
 - 🔧 &nbsp; Git 
 
