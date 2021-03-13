@@ -49,9 +49,11 @@ Here are some ideas to get you started:
 
 <br />
 
-[![mahidulmoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahidulmoon&show_icons=true)](https://github.com/mahidulmoon)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahidulmoon&theme=tokyonight)
+<a href="https://github.com/mahidulmoon">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=mahidulmoon&theme=buefy&show_icons=true" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahidulmoon&theme=tokyonight" />
+</a>
+<br />
 
 <h3> 🤝🏻 Connect with Me </h3>
 
