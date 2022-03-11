@@ -55,6 +55,9 @@ Here are some ideas to get you started:
 </a>
 <br />
 
+<img height="300em" src="https://activity-graph.herokuapp.com/graph?username=mahidulmoon&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" />
+<br />
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
