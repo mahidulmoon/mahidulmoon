@@ -54,10 +54,33 @@ Here are some ideas to get you started:
 
 <br />
 
+
 <a href="https://github.com/mahidulmoon">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=mahidulmoon&theme=buefy&show_icons=true" />
-  <img height="245em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahidulmoon&theme=tokyonight" />
+  <table>
+    <tr>
+      <!-- First Column: Single Image -->
+      <td>
+        <img height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahidulmoon&theme=tokyonight" width="100%" />
+      </td>
+      <!-- Second Column: Two Images in Two Rows -->
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img src="https://github-readme-stats.vercel.app/api?username=mahidulmoon&show_icons=true&hide_border=true&theme=tokyonight" width="100%" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahidulmoon&theme=tokyonight&hide_border=true" width="100%" />
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </a>
+
 <br />
 
 <!-- <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=mahidulmoon&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" />
