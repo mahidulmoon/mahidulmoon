@@ -1,98 +1,102 @@
-<h2> I'm Md.Mahidul Islam.</h2>
+<h1 align="center">Hi 👋, I'm Md. Mahidul Islam</h1>
+<h3 align="center">🚀 Full Stack Developer | Django & React Specialist</h3>
 
-
-- 🌱 A passionate self-taught Django and Reactjs Developer.
-
-<!--
-**mahidulmoon/mahidulmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3> 👨🏻‍⚡ About Me </h3>
-
-- 🌱 &nbsp; Good knowledge in Full Stack Developer(Frontend(reactjs,reactnative)+Backend(django,djangorestframework))
-- 🎓 &nbsp; Studying Software Engineering at Daffodil International University.
-- 🤔 I’m steal learning for better development skill in full-stack web development
-
-<!--- 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design. -->
-
-### Languages and Tools:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/js.png" />
-<img align="left" alt="Node" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
-<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
-<img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" />
-<img align="left" alt="AWS" width="36px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br/>
-
-<br/>
-
-
-
-- 💻 &nbsp; C | Python | Javascript | Golang
-- 🌐 &nbsp; HTML | CSS | ReactJS | ReactBootstrap | NodeJS | ReactNative | Django | Django Rest Framework | Gin(golang)
-- 🛢 &nbsp; MySQL | Sqlite3 | PostgreSQL | Oracle
-- 🔧 &nbsp; Git 
-
-
-<br />
-
-
-<a href="https://github.com/mahidulmoon">
-  <table>
-    <tr>
-      <!-- First Column: Single Image -->
-      <td>
-        <img height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahidulmoon&theme=tokyonight" width="100%" />
-      </td>
-      <!-- Second Column: Two Images in Two Rows -->
-      <td>
-        <table>
-          <tr>
-            <td>
-              <img src="https://github-readme-stats.vercel.app/api?username=mahidulmoon&show_icons=true&hide_border=true&theme=tokyonight" width="100%" />
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahidulmoon&theme=tokyonight&hide_border=true" width="100%" />
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</a>
-
-<br />
-
-<!-- <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=mahidulmoon&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" />
-<br /> -->
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="left">
-<a href="https://mahidulmoon.netlify.app/"><img alt="PortFolio" src="https://img.shields.io/badge/Portfolio-www.mahidulmoon.netlify.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mahidul-moon-281509144/"><img alt="LinkedIn" src="https://img.shields.io/badge/mahidulmoon-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/mahidulmoon/"><img alt="Facebook" src="https://img.shields.io/badge/mahidulmoon-facebook-blue?style=flat&logo=facebook"></a>
-<a href="mailto:mahidulmoon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mahidulmoon@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<p align="center">
+  <a href="https://mahidulmoon.netlify.app" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mahidul-moon-281509144/" target="_blank">LinkedIn</a> •
+  <a href="mailto:mahidulmoon@gmail.com">Email</a>
 </p>
 
-⭐️ From [MAHIDULMOON](https://github.com/mahidulmoon)
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Self-taught **Full Stack Developer**
+- 🧠 Strong in **Backend (Django, Django REST Framework)** & **Frontend (React, React Native)**
+- 🎓 Studying **Software Engineering** at *Daffodil International University*
+- ⚡ Passionate about writing **clean, scalable, and maintainable code**
+- 🚀 Always learning and improving modern web technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Gin](https://img.shields.io/badge/Gin-Golang-00ADD8?style=for-the-badge&logo=go)
+
+### 🛢️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+
+### ☁️ DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahidulmoon&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahidulmoon&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahidulmoon&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahidulmoon&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahidulmoon&theme=tokyonight&utcOffset=6" width="45%" />
+</p>
+
+
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahidulmoon&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://mahidulmoon.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/mahidul-moon-281509144/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-brightgreen?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/mahidulmoon/">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook">
+  </a>
+  <a href="mailto:mahidulmoon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+⭐️ *Crafted with passion by* **Mahidul Moon**
