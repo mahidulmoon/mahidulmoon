@@ -13,7 +13,7 @@
 
 - 🌱 Self-taught **Full Stack Developer**
 - 🧠 Strong in **Backend (Django, Django REST Framework)** & **Frontend (React, React Native)**
-- 🎓 Studying **Software Engineering** at *Daffodil International University*
+- 🎓 Studied **Software Engineering** at *Daffodil International University*
 - ⚡ Passionate about writing **clean, scalable, and maintainable code**
 - 🚀 Always learning and improving modern web technologies
 
