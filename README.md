@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🌱 Self-taught **Full Stack Developer**
-- 🧠 Strong in **Backend (Django, Django REST Framework)** & **Frontend (React, React Native)**
+- 🧠 Strong in **Backend (Django, Django REST Framework, FastAPI)** & **Frontend (React, React Native)**
 - 🎓 Studied **Software Engineering** at *Daffodil International University*
 - ⚡ Passionate about writing **clean, scalable, and maintainable code**
 - 🚀 Always learning and improving modern web technologies
@@ -32,10 +32,12 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=bootstrap)
 
 ### ⚙️ Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Gin](https://img.shields.io/badge/Gin-Golang-00ADD8?style=for-the-badge&logo=go)
 
@@ -49,6 +51,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/pychram-007ACC?style=for-the-badge&logo=pycharm)
 
 ---
 
